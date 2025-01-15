@@ -1,6 +1,6 @@
 ## yFreshzDev | Front-End Developer
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yfreshzdev&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yfreshzdev&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yfreshzdev&show&layout=compact&theme=dark)
 
 ## Habilidades
 <div>
