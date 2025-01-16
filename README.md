@@ -22,9 +22,10 @@
 Olá Meu nome é Felipe, estudo programação e afins há 2 anos tenho formação em T.I e atualmente estou no curso de Redes de Computadores <br> Você Poderá ver mais detalhadamente à baixo. 👇
 
 ## Formações
-- Tecnico em T.I ( ETEC Massuyuki Kawano )
+- Tecnico em T.I (ETEC Massuyuki Kawano)
 - Tecnico em Redes  de Computadores (ETEC Massuyuki Kawano) - Atual
 - Curso Front-End Dev (Udemy)
 - Inglês Básico ao Avançado (Udemy)
+- Arduíno (Udemy)
   <br><br>
 - <i>Fiz Vestibular para <b>Sistemas Inteligentes</b> na FATEC - Pompéia. (esperando o resultado sair)</i>
