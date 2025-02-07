@@ -27,5 +27,3 @@ Olá Meu nome é Felipe, estudo programação e afins há 2 anos tenho formaçã
 - Curso Front-End Dev (Udemy)
 - Inglês Básico ao Avançado (Udemy)
 - Arduíno (Udemy)
-  <br><br>
-- <i>Fiz Vestibular para <b>Sistemas Inteligentes</b> na FATEC - Pompéia. (esperando o resultado sair)</i>
